@@ -1,3 +1,15 @@
+Download source code form "bochs.sourceforge.net" tagged with "msvc-src", 
+debuging and running bochs with Visual Studio 2013 or newer ones 
+which is the first IDE in the universe can improve the speed of learning bochs obviously; 
+Most source code files of bochs is only hundreds lines of code,
+few source code files of bochs is 1000~3000 lines of code, 
+only a litter source code of bochs is about 10000 lines of code; 
+If you want to learn the bottom knowledge of OS, go through bochs;   
+Having base knowledge of autoconf and automake 
+which automaticly scan source code files and produce makefile is better;
+
+
+
 Bochs - The cross platform IA-32 (x86) emulator
 Updated: Sun June 7 10:07:00 CEST 2009
 Version: 2.4.1
